@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Basic gamer, co umí hrát a prošel různými fantasy světy.
 
-### More Information
+Více informací!
 
-A place to include any other types of information that you'd like to include about yourself.
+Mám se celkem rád.
+Již trošku začínám Git Hubu rozumět.
 
-### Contact me
+Ozvi se!
 
-[email@domain.com](mailto:email@domain.com)
+[maturo@email.cz](mailto:maturo@email.cz)
