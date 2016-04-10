@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O mě
-permalink: /about/
+permalink: /O mě/
 ---
 
 Basic gamer, co umí hrát a prošel různými fantasy světy.
