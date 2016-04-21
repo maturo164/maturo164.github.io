@@ -19,7 +19,7 @@ Teamový projekt:
 
 1.
 
-cílová skupina: web je určen jak hráčům WoW, kteří se chtějí dozvědět o této hře něco nového a odlišného, stejně tak pro náhodné zájemce o perspektivu, která WoW ukazuje v jiném světle
+Cílová skupina: Web je určen jak hráčům WoW, kteří se chtějí dozvědět o této hře něco nového a odlišného, stejně tak pro náhodné zájemce o perspektivu, která WoW ukazuje v jiném světle
 
 2.
 
