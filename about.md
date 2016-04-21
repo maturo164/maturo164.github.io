@@ -1,19 +1,12 @@
 ---
 layout: page
-title: About me and website
+title: About us and website
 permalink: /about/
 ---
 
-Basic gamer, co umí hrát a prošel různými fantasy světy.
+Jsme studenti KISKu na FF MU v Brně a jsme štastní, že se náš projekt posouvá vpřed. 
 
-Více informací!
-
-Mám se celkem rád.
-Již trošku začínám Git Hubu rozumět.
-
-Ozvi se!
-
-[maturo@email.cz](mailto:maturo@email.cz)
+Náš hvězdný team: Roman Matulík (444114@mail.muni.cz), Zuzana Hlisnikovská (448686@mail.muni.cz), Karel Mašek (449222@mail.muni.cz)
 
 Teamový projekt:
 
