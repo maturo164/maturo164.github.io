@@ -6,7 +6,11 @@ permalink: /about/
 
 Jsme studenti KISKu na FF MU v Brně a jsme štastní, že se náš projekt posouvá vpřed. 
 
-Náš hvězdný team: Roman Matulík (444114@mail.muni.cz), Zuzana Hlisnikovská (448686@mail.muni.cz), Karel Mašek (449222@mail.muni.cz)
+Náš hvězdný team: 
+
+Roman Matulík (444114@mail.muni.cz), 
+Zuzana Hlisnikovská (448686@mail.muni.cz), 
+Karel Mašek (449222@mail.muni.cz)
 
 Teamový projekt:
 
