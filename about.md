@@ -23,7 +23,7 @@ Cílová skupina: Web je určen jak hráčům WoW, kteří se chtějí dozvědě
 
 2.
 
-Cíl webu: Náš web se bude snažit poukázat na to, jakým způsobem na tuto hru a celý herní svět okolo se motající nahlíží hráči, ale také nabídnout náhled na hru běžným lidem, kteří třeba o toto téma zájem mají, ale ve výsledku se nikdy nějak extra nezajímali a popřípadě jim ukázat, že to je nejen o tom, že člověk musí sedět desítky a stovky hodin za počítačem, ale že jde o mnohem více.
+Cíl webu: Náš web se bude snažit poukázat na to, jakým způsobem na tuto hru a celý herní svět okolo nahlížejí hráči, ale také se bude snažit nabídnout náhled na hru běžným lidem, kteří třeba o toto téma zájem mají, ale ve výsledku se o něj nikdy nějak extra nezajímali.  Tento web jim bude popřípadě schopen ukázat, že hra World of Warcraft není jen o tom, že člověk musí sedět desítky až stovky hodin měsíčně za počítačem, ale že jde častokrát o mnohem více.
 
 3.
 
