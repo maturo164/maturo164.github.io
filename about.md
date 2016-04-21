@@ -55,6 +55,7 @@ CORNELIUSSEN, Hilde a Jill Walker RETTBERG. Digital culture, play, and identity:
 http://wowfan.tiscali.cz/ Tato stránka mi přijde velmi přátelská pro uživatele.
 
 8.
+
 - World of Warcraft jako hra
 - Příběh Warcraftu jako herní ságy
 - World of Warcraft lore po sobě jdoucí podle datadisků
