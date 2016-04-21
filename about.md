@@ -51,6 +51,7 @@ MIŠTEROVÁ, Ivona a Eva SKOPEČKOVÁ. A search for identity: identity in lingui
 CORNELIUSSEN, Hilde a Jill Walker RETTBERG. Digital culture, play, and identity: a World of Warcraft reader. Cambridge: MIT, c2008. ISBN 978-0-262-51669-3.
 
 6.
+
 - http://i.imgur.com/rUQICle.jpg - 2 hlavní frakce.
 - https://www.youtube.com/watch?v=o9VkwBn5kYk - Cosplay soutěž.
 - https://www.youtube.com/watch?v=lbjRlxvKLBc&list=PL0QrZvg7QIgrjTWQU8qooMxK9GX4DyZg8 - Kreslený tematický seriál.
