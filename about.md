@@ -18,15 +18,19 @@ Ozvi se!
 Teamový projekt:
 
 1.
+
 cílová skupina: web je určen jak hráčům WoW, kteří se chtějí dozvědět o této hře něco nového a odlišného, stejně tak pro náhodné zájemce o perspektivu, která WoW ukazuje v jiném světle
 
 2.
+
 Cíl webu: Náš web se bude snažit poukázat na to, jakým způsobem na tuto hru a celý herní svět okolo se motající nahlíží hráči, ale také nabídnout náhled na hru běžným lidem, kteří třeba o toto téma zájem mají, ale ve výsledku se nikdy nějak extra nezajímali a popřípadě jim ukázat, že to je nejen o tom, že člověk musí sedět desítky a stovky hodin za počítačem, ale že jde o mnohem více.
 
 3.
+
 Název webu: World of Warcraft jinak
 
 4.
+
 - http://wow.herniweb.cz/news/
 - http://wowwiki.wikia.com/wiki/Portal:Main
 - http://wowfan.tiscali.cz/
