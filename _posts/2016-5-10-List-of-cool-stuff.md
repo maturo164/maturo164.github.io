@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World of Warcraft, cliché?
+title: Zdroje, dobré pro tvé postoje!
 ---
 
 Tady v tomto postu vám nabídneme více a více možných zdrojů, které byste mohli využít v případě, že se budete zajímat více. 
