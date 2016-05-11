@@ -16,11 +16,11 @@ Teamový projekt:
 
 1.
 
-Cílová skupina: Web je určen jak hráčům WoW, kteří se chtějí dozvědět o této hře něco nového a odlišného, stejně tak pro náhodné zájemce o perspektivu, která WoW ukazuje v jiném světle
+Cílová skupina: Web je určen jak hráčům WoW, kteří se chtějí dozvědět o této hře něco nového a odlišného, stejně tak pro náhodné zájemce o perspektivu, která WoW ukazuje v jiném světle.
 
 2.
 
-Cíl webu: Náš web se bude snažit poukázat na to, jakým způsobem na tuto hru a celý herní svět okolo nahlížejí hráči, ale také se bude snažit nabídnout náhled na hru běžným lidem, kteří třeba o toto téma zájem mají, ale ve výsledku se o něj nikdy nějak extra nezajímali.  Tento web jim bude popřípadě schopen ukázat, že hra World of Warcraft není jen o tom, že člověk musí sedět desítky až stovky hodin měsíčně za počítačem, ale že jde častokrát o mnohem více.
+Cíl webu: Náš web se bude snažit poukázat na to, jakým způsobem na tuto hru a celý herní svět okolo nahlížejí hráči, ale také se bude snažit nabídnout náhled na hru běžným lidem, kteří třeba o toto téma zájem mají, ale ve výsledku se o něj nikdy nějak extra nezajímali. Tento web jim bude popřípadě schopen ukázat, že hra World of Warcraft není jen o tom, že člověk musí sedět desítky až stovky hodin měsíčně za počítačem, ale že jde častokrát o mnohem více.
 
 3.
 
@@ -78,6 +78,6 @@ http://wowfan.tiscali.cz/ Tato stránka mi přijde velmi přátelská pro uživa
 9.
 
 Strategie:
-Náš web by měl hlavně fungovat jako okénko pro ty lidi, kteří by se nechtěli o WoW dozvědět pouze jako masivní online hře, ale také se chtěli dozvědět něco více o příběhu. Také náš web bude nabízet týdení okénko co WoW svět dal a vzal naší milé koelgyně Zuzany. Dále bychom se chtěli snažit zapojovat a odkazovat na více specifičtější weby a tak celkově poukázat na herní a mimoherní WoW komunitu. Hlavní publikační moderátor bych měl být asi já, Roman Matulík, ale nidky nebude jednáno bez souhlasu ostatních členů týmu.
+Náš web by měl hlavně fungovat jako okénko pro ty lidi, kteří by se nechtěli o WoW dozvědět pouze jako masivní online hře, ale také se chtěli dozvědět něco více o příběhu. Také náš web bude nabízet týdenní okénko, co WoW svět dal a vzal, naší milé kolegyně Zuzany. Dále bychom se chtěli snažit zapojovat a odkazovat na více specifičtější weby a tak celkově poukázat na herní a mimoherní WoW komunitu. Hlavní publikační moderátor bych měl být asi já, Roman Matulík, ale nidky nebude jednáno bez souhlasu ostatních členů týmu.
 
 
