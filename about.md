@@ -10,7 +10,7 @@ Náš hvězdný team:
 
 - Roman Matulík (444114@mail.muni.cz), 
 - Zuzana Hlisnikovská (448686@mail.muni.cz), 
-- Karel Mašek (449222@mail.muni.cz)
+- Karel Mašek (449222@mail.muni.cz)  
 
 Teamový projekt:
 
@@ -78,6 +78,6 @@ http://wowfan.tiscali.cz/ Tato stránka mi přijde velmi přátelská pro uživa
 9.
 
 Strategie:
-Náš web by měl hlavně fungovat jako okénko pro ty lidi, kteří by se nechtěli o WoW dozvědět pouze jako masivní online hře, ale také se chtěli dozvědět něco více o příběhu. Také náš web bude nabízet týdenní okénko, co WoW svět dal a vzal, naší milé kolegyně Zuzany. Dále bychom se chtěli snažit zapojovat a odkazovat na více specifičtější weby a tak celkově poukázat na herní a mimoherní WoW komunitu. Hlavní publikační moderátor bych měl být asi já, Roman Matulík, ale nidky nebude jednáno bez souhlasu ostatních členů týmu.
+Náš web by měl hlavně fungovat jako okénko pro ty lidi, kteří by se nechtěli o WoW dozvědět pouze jako masivní online hře, ale také se chtěli dozvědět něco více o příběhu. Také náš web bude nabízet týdenní okénko, co WoW svět dal a vzal, naší milé kolegyně Zuzany. Dále bychom se chtěli snažit zapojovat a odkazovat na více specifičtější weby a tak celkově poukázat na herní a mimoherní WoW komunitu. Hlavní publikační moderátor bych měl být asi já, Roman Matulík, ale nikdy nebude jednáno bez souhlasu ostatních členů týmu.
 
 
