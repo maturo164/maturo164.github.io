@@ -28,21 +28,21 @@ Název webu: World of Warcraft jinak
 
 4.
 
-- http://wow.herniweb.cz/news/
-- http://wowwiki.wikia.com/wiki/Portal:Main
-- http://wowfan.tiscali.cz/
-- https://www.reddit.com/r/wow/
-- http://www.gamefaqs.com/boards/534914-world-of-warcraft
+- [http://wow.herniweb.cz/news/](http://wow.herniweb.cz/news/)
+- [http://wowwiki.wikia.com/wiki/Portal:Main](http://wowwiki.wikia.com/wiki/Portal:Main)
+- [http://wowfan.tiscali.cz/](http://wowfan.tiscali.cz/)
+- [https://www.reddit.com/r/wow/](https://www.reddit.com/r/wow/)
+- [http://www.gamefaqs.com/boards/534914-world-of-warcraft](http://www.gamefaqs.com/boards/534914-world-of-warcraft)
 
 5.
 
-CĂRĂTĂRESCU-PETRICĂ, Ioana. Do those who play together stay together? The World of Warcraft community between play, practice and game design. Journal of Comparative Research in Anthropology [online]. 2015, 6(1), 27-53 [cit. 2016-04-21]. ISSN 20680317. Dostupné z: http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=sih&AN=110150966&lang=cs&site=eds-live&scope=site
+CĂRĂTĂRESCU-PETRICĂ, Ioana. Do those who play together stay together? The World of Warcraft community between play, practice and game design. Journal of Comparative Research in Anthropology [online]. 2015, 6(1), 27-53 [cit. 2016-04-21]. ISSN 20680317. Dostupné z: [http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=sih&AN=110150966&lang=cs&site=eds-live&scope=site](http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=sih&AN=110150966&lang=cs&site=eds-live&scope=site)
 
-VISSER, Mandy;Antheunis. Online communication and social well-being: how playing World of Warcraft affects players' social competence and loneliness. Journal of Applied Social Psychology [online]. 2013, 43(7), 1508-1517 [cit. 2016-04-21]. DOI: 10.1111/jasp.12144. ISSN 00219029. Dostupné z: http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=sih&AN=88980276&lang=cs&site=eds-live&scope=site
+VISSER, Mandy;Antheunis. Online communication and social well-being: how playing World of Warcraft affects players' social competence and loneliness. Journal of Applied Social Psychology [online]. 2013, 43(7), 1508-1517 [cit. 2016-04-21]. DOI: 10.1111/jasp.12144. ISSN 00219029. Dostupné z: [http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=sih&AN=88980276&lang=cs&site=eds-live&scope=site](http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=sih&AN=88980276&lang=cs&site=eds-live&scope=site)
 
-HANUSKOVÁ, Markéta. Přezdívky v počítačové hře World of Warcraft [online]. 2010 [cit. 2016-04-21]. Dostupné z: http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=ir00442a&AN=mutd.theses.195715&lang=cs&site=eds-live&scope=site
+HANUSKOVÁ, Markéta. Přezdívky v počítačové hře World of Warcraft [online]. 2010 [cit. 2016-04-21]. Dostupné z: [http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=ir00442a&AN=mutd.theses.195715&lang=cs&site=eds-live&scope=site](http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=ir00442a&AN=mutd.theses.195715&lang=cs&site=eds-live&scope=site)
 
-ZEMANOVÁ, Milada. Online hry očima žen-hráček [online]. 2014 [cit. 2016-04-21]. Dostupné z: http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=ir00442a&AN=mutd.theses.245838&lang=cs&site=eds-live&scope=site
+ZEMANOVÁ, Milada. Online hry očima žen-hráček [online]. 2014 [cit. 2016-04-21]. Dostupné z: [http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=ir00442a&AN=mutd.theses.245838&lang=cs&site=eds-live&scope=site](http://ezproxy.muni.cz/login?url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cookie,uid&db=ir00442a&AN=mutd.theses.245838&lang=cs&site=eds-live&scope=site)
 
 NARDI, Bonnie A. My life as a night elf priest: an anthropological account of World of warcraft. Ann Arbor: University of Michigan Press, c2010. Technologies of the imagination. ISBN 978-0-472-07098-5.
 
@@ -52,15 +52,15 @@ CORNELIUSSEN, Hilde a Jill Walker RETTBERG. Digital culture, play, and identity:
 
 6.
 
-- http://i.imgur.com/rUQICle.jpg - 2 hlavní frakce.
-- https://www.youtube.com/watch?v=o9VkwBn5kYk - Cosplay soutěž.
-- https://www.youtube.com/watch?v=lbjRlxvKLBc&list=PL0QrZvg7QIgrjTWQU8qooMxK9GX4DyZg8 - Kreslený tematický seriál.
-- https://www.youtube.com/watch?v=vlVSJ0AvZe0 - Trailer na první hru World of Warcraft.
-- https://www.youtube.com/watch?v=Kgg9fQwY-0Q - Fanouškovský minifilm.
+- [http://i.imgur.com/rUQICle.jpg](http://i.imgur.com/rUQICle.jpg) - 2 hlavní frakce.
+- [https://www.youtube.com/watch?v=o9VkwBn5kYk](https://www.youtube.com/watch?v=o9VkwBn5kYk) - Cosplay soutěž.
+- [https://www.youtube.com/watch?v=lbjRlxvKLBc&list=PL0QrZvg7QIgrjTWQU8qooMxK9GX4DyZg8](https://www.youtube.com/watch?v=lbjRlxvKLBc&list=PL0QrZvg7QIgrjTWQU8qooMxK9GX4DyZg8) - Kreslený tematický seriál.
+- [https://www.youtube.com/watch?v=vlVSJ0AvZe0](https://www.youtube.com/watch?v=vlVSJ0AvZe0) - Trailer na první hru World of Warcraft.
+- [https://www.youtube.com/watch?v=Kgg9fQwY-0Q](https://www.youtube.com/watch?v=Kgg9fQwY-0Q) - Fanouškovský minifilm.
 
 7.
 
-http://wowfan.tiscali.cz/ Tato stránka mi přijde velmi přátelská pro uživatele.
+http://wowfan.tiscali.cz/ [Tato stránka](http://wowfan.tiscali.cz/) mi přijde velmi přátelská pro uživatele.
 
 8.
 
